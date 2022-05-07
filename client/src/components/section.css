@@ -1,0 +1,17 @@
+.center-text {
+  font-weight: 400;
+  color: #777777;
+  line-height: 175%;
+  text-align: justify;
+  justify-content: center;
+  display: flex;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.center {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 30px;
+}
