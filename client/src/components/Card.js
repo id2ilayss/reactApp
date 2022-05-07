@@ -57,7 +57,7 @@ function Card() {
           </div>
         </div>
       </div>
-      <div class="vertical-center">
+      <div className="vertical-center">
         <Button id="btn">View Departement Details</Button>
       </div>
     </section>
